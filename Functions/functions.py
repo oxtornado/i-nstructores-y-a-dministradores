@@ -1,4 +1,4 @@
-from clases.clases import *
+from Classes.clases import *
 import os
 
 # Nombramos una funcion que limpie la consola

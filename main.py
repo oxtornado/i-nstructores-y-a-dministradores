@@ -1,4 +1,4 @@
-from clases.clases import *
+from Classes.clases import *
 from Functions.functions import *
 
 # Funcion principal
